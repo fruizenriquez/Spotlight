@@ -51,3 +51,5 @@ Now that you're more familiar with your Bitbucket repository, go ahead and add a
 ##Fernando example1
 
 ##Updated it from Github
+
+##Updated from GITHUB after the release created
