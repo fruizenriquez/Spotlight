@@ -46,10 +46,4 @@ Now that you're more familiar with your Bitbucket repository, go ahead and add a
 
 ##Change some lines with Juanjo on 09/05/2020
 
-##Fernando changed it
-
-##Fernando example1
-
-##Updated it from Github
-
-##Updated from GITHUB after the release created
+##Run the new release
